@@ -1,7 +1,7 @@
 import config from 'config'
 
 function f() {
-	console.log("Hello world")
+	console.log("Yo")
 }
 
 f()
